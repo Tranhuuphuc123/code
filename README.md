@@ -1,0 +1,2 @@
+# code
+hien thi lcd
